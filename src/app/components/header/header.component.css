@@ -1,0 +1,12 @@
+h1{
+    color: var(--fc-primaryYellow)
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
+
+header{
+    align-items: center;
+}
